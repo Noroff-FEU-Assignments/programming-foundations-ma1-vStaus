@@ -17,7 +17,6 @@ console.log(typeof name)
 //oppgave 4
 var orderHasShipped = true;
 console.log(orderHasShipped)
-//decleared and initialized
 var orderHasShipped = true;
 if(orderHasShipped === true)    {
     console.log("The order shipped");
@@ -26,3 +25,6 @@ else {
     console.log("The order did not ship");
 }
 //oppgave 5
+for(var count =7; count <= 13; count++){
+    console.log(count)
+}
