@@ -1,11 +1,11 @@
 //oppgave 1.
-var integer = 8;
+var number = 8;
 var isLoggedIn = true;
 var myPet ="dog";
 
 //oppgave 2.
-var myName = "Vegard";
-var myLastName = "Stausland";
+var myName = "vegard";
+var myLastName = "stausland";
 var myName = myName + " " + myLastName;
 console.log(myName);
 
