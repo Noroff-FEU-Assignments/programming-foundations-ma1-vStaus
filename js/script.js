@@ -10,3 +10,6 @@ var myFullName = myName + " " + myLastName;
 console.log(myName);
 
 //oppgave 3.
+var name = "frog";
+console.log(typeof name)
+//the type of frog is string
