@@ -1,7 +1,7 @@
 //oppgave 1.
 var integer = 8;
 var isLoggedIn = true;
-var myPet ="Dog";
+var myPet ="dog";
 
 //oppgave 2.
 var myName = "Vegard";
